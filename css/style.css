@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -9,12 +9,143 @@
     height: 100vh;
     background-image: url("../images/darkblue.jpg");
 }
- #orange-dots {
-    position:relative;
+
+#orange-dots {
+    position: relative;
     right: 400px;
- }
- #webdesign {
+}
+
+#webdesign {
     position: relative;
     top: -400px;
     right: 300px;
- }
+}
+
+#century {
+    position: relative;
+    top: -550px;
+    left: 250px;
+}
+
+#visual {
+    position: relative;
+    top: -300px;
+    right: 200px;
+    height: 200px;
+}
+
+#rect-47 {
+    position: relative;
+    top: -550px;
+    left: 200px;
+}
+
+#year {
+    position: relative;
+    top: -1100px;
+    left: 600px;
+    height: 500px;
+}
+
+#path17 {
+    position: relative;
+    top: -1450px;
+
+}
+
+#line2 {
+    position: relative;
+    top: -1800px;
+    left: 900px;
+}
+
+#hatched-3 {
+    position: relative;
+    top: -1350px;
+    right: 90px;
+    height: 400px;
+}
+
+#mask1 {
+    position: relative;
+    top: -1900px;
+    left: 1200px;
+
+}
+
+#path18 {
+    position: relative; 
+    top: -2150px;
+    left: 900px;
+}
+
+#line-1 {
+    position: relative; 
+    top: -1950px;
+    left: 400px;
+}
+#circle-grid {
+    position: relative; 
+    top: -2100px;
+    left: 400px;
+}
+
+#rect-45 {
+    position: relative; 
+    top: -2700px;
+    left: 900px;
+}
+
+#maskgroup1 {
+    position: relative; 
+    top: -3100px;
+    left: 650px;
+}
+
+#path19 {
+    position: relative; 
+    top: -2800px;
+    left: 300px;
+}
+
+#ellipse3 {
+    position: relative;
+    top: -3800px;
+    left: 1300px;
+}
+
+#hatched {
+    position: relative;
+    top: -3700px;
+    right: 300px;
+}
+
+#sub2 {
+    position: relative;
+    top: -3900px;
+    right: 900px;
+}
+
+#boxtext {
+    position: relative;
+   top: -4000px;
+   left: 250px;
+}
+
+#hatched3 {
+    position: relative;
+    top: -4000px;
+   right: 350px;
+}
+
+#triangle-s {
+    position: relative;
+    top: -4170px;
+    right: 400px;
+}
+
+#sub1 {
+    position: relative;
+    top: -4100px;
+    right: 800px;
+}
